@@ -57,7 +57,7 @@ var projectData = [
       },
 //Add the Place Profile page, and the Likes feature
     ],
-  responsibilities: ["Sole Full Stack Engineer of the Application, and worked with a Senior Dev to pair program with to best optimize the code base", "Programmed the front-end and the application's mobile-responsiveness, using jquery, bootstrap, css, and ajax", "Responsible for developing Facebook authentication feature, the forms using the Google Maps Library, the Likes feature, and the news feed", "Configured the admin interface using the RailsAdmin gem"],
+  responsibilities: ["Sole Full Stack Engineer of the Application, and worked with a Senior Dev to pair program with to best optimize the code base", "Work on the backend API for react developers to use for the native application", "Worked on the following feature, where a user can follow another perpective user if they are not facebook friends", "Programmed the front-end and the application's mobile-responsiveness, using jquery, bootstrap, css, and ajax", "Responsible for developing Facebook authentication feature, the forms using the Google Maps Library, the Likes feature, and the news feed", "Configured the admin interface using the RailsAdmin gem"],
   futureFeatures: [],
   technologies: ["Ruby on Rails", "JQUERY", "HTML5", "CSS", "AJAX", "SVG", "Bootstrap", "PostgreSQL", "Heroku"],
   api: []
@@ -229,7 +229,7 @@ var projectData = [
     intro: "My porfolio site!  Self explanatory, but it's a place where I can show off my work and projects I've been working on.  I've been using a mix of jquery and javascript plugins to accomplish the design and feel of the site.",
     coverImage: port+"port3.png",
     images: [],
-    responsibilities: ["Developed a Gulp workflow with BrowserSync, and gulp dependecies to minify code and compress images","Used a combination of jquery plugins like mmenu, scrollReveal.js, parallax.js", "Added css stylesheets from hover.css, and animate.css",  "Design was created with love by me!"],
+    responsibilities: ["Developed a Gulp workflow with BrowserSync, and gulp dependecies to minify code and compress images","Used underscore.js library","Used a combination of jquery plugins like mmenu, scrollReveal.js, parallax.js", "Added css stylesheets from hover.css, and animate.css",  "Design was created with love by me!"],
     futureFeatures: ["Making it mobile responsive"],
     technologies: ["Underscore.js", "Javascript", "HTML5", "CSS", "Bootstrap", "SVG", "Gulp"],
     api: []
